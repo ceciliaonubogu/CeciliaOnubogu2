@@ -1,6 +1,6 @@
 # Cecilia Onubogu
 Cybersecurity Project Portfolio
-# Firstname Lastname - Cybersecurity-SOC-GRC | Cyber Security Analyst| GRC | Security Operations & Vulnerability Management | Skilled in SIEM, XDR/EDR, Digital Forensics & Incident Response | CompTIA Certified | MSc Cybersecurity Graduate (AU)| ISC2 Certified| Google Certified
+#  Cecilia Onubogu - Cybersecurity-SOC-GRC | Cyber Security Analyst| GRC | Security Operations & Vulnerability Management | Skilled in SIEM, XDR/EDR, Digital Forensics & Incident Response | CompTIA Certified | MSc Cybersecurity Graduate (AU)| ISC2 Certified| Google Certified
 
 # Hello, I'm  Cecilia Onubogu
 <a href="https://linkedin.com/in/ceciliaonubogu-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
